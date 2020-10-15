@@ -1,0 +1,5 @@
+- batch_normalization_(\d+)_(\d)
+- batch_normalization_$1
+
+- conv2d_(\d+)_(\d)
+- conv2d_$1
