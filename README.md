@@ -1,2 +1,2 @@
-# emotionlRecognition
+# emotionRecognition
 Zju Srtp
